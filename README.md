@@ -3,9 +3,9 @@ About this project:-
 # Computer Vision Multimodel Project  
 
 This project demonstrates advanced real-time computer vision functionalities, integrating:  
-- **Hand Gesture Detection**: Recognizes hand gestures to perform specific actions like controlling system volume.  
-- **Object Detection**: Identifies objects in real-time using the YOLO model.  
-- **Drawing Application**: Allows users to draw on the screen using hand gestures, enabling a creative and interactive experience.  
+- **Hand Gesture Detection**: Recognizes hand gestures (thumb up for increase /down for decrease volume)to perform specific actions like controlling system volume.  
+- **Object Detection**: Identifies objects in real-time such as person, phone, animals, etc and also it will count the number of objects that you will show to web cam .  
+- **Drawing Application**: Allows users to draw on the screen using your index finger, enabling a creative and interactive experience.  
 
 ## Key Features  
 - Real-time gesture recognition for interactive control and drawing.  
